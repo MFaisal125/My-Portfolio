@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',
-    title: '0xAquaWolf',
+    title: 'My Portfolio',
   },
   formatDetection: {
     telephone: false,
